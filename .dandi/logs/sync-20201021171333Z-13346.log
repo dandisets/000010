@@ -1,0 +1,951 @@
+2020-10-21T13:13:34-0400 [INFO    ] dandi Traversing remote dandisets (000010) recursively
+2020-10-21T13:13:34-0400 [INFO    ] backups2datalad.py Updating metadata file
+2020-10-21T13:13:42-0400 [INFO    ] backups2datalad.py Syncing asset /sub-210861/sub-210861_ses-20130701_behavior+ecephys+ogen.nwb
+2020-10-21T13:13:42-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:13:42-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:13:42-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ec/e5/ece597c462bd484ab4aad273d20e4b95 -> /mnt/backup/dandi/dandisets/000010/sub-210861/sub-210861_ses-20130701_behavior+ecephys+ogen.nwb
+2020-10-21T13:13:44-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:13:46-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ec/e5/ece597c462bd484ab4aad273d20e4b95?versionId=Iy3BAYCpjZu16J46DZUQ4WhNRm4aNNB8 to asset
+2020-10-21T13:13:47-0400 [INFO    ] backups2datalad.py Syncing asset /sub-210861/sub-210861_ses-20130702_behavior+ecephys+ogen.nwb
+2020-10-21T13:13:47-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:13:47-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:13:47-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a7/68/a7681a6f016a433b89bd0de1d7dc2730 -> /mnt/backup/dandi/dandisets/000010/sub-210861/sub-210861_ses-20130702_behavior+ecephys+ogen.nwb
+2020-10-21T13:13:48-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:13:50-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a7/68/a7681a6f016a433b89bd0de1d7dc2730?versionId=kUOfdy7FPKad2zqF1ZGlXXLcqyMy_24k to asset
+2020-10-21T13:13:50-0400 [INFO    ] backups2datalad.py Syncing asset /sub-210861/sub-210861_ses-20130703_behavior+ecephys+ogen.nwb
+2020-10-21T13:13:50-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:13:51-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:13:51-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/d6/88/d68852468b774edb9b8e34df8b668ed4 -> /mnt/backup/dandi/dandisets/000010/sub-210861/sub-210861_ses-20130703_behavior+ecephys+ogen.nwb
+2020-10-21T13:13:52-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:13:55-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/d6/88/d68852468b774edb9b8e34df8b668ed4?versionId=uqpzeM8Yl98uX_yGGWQn0ri69BYhTIDQ to asset
+2020-10-21T13:13:55-0400 [INFO    ] backups2datalad.py Syncing asset /sub-210862/sub-210862_ses-20130626_behavior+ecephys+ogen.nwb
+2020-10-21T13:13:55-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:13:56-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:13:56-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/38/68/3868bb44ca6f4c7fa818025546786345 -> /mnt/backup/dandi/dandisets/000010/sub-210862/sub-210862_ses-20130626_behavior+ecephys+ogen.nwb
+2020-10-21T13:13:56-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:13:58-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/38/68/3868bb44ca6f4c7fa818025546786345?versionId=8iwNDBUE8R9b6mhXcowLq9rmHiRQqg0_ to asset
+2020-10-21T13:13:58-0400 [INFO    ] backups2datalad.py Syncing asset /sub-210862/sub-210862_ses-20130627_behavior+ecephys+ogen.nwb
+2020-10-21T13:13:58-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:13:58-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:13:58-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c5/04/c504dcd8373844e2a5d8287c8574acf1 -> /mnt/backup/dandi/dandisets/000010/sub-210862/sub-210862_ses-20130627_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:00-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:14:03-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c5/04/c504dcd8373844e2a5d8287c8574acf1?versionId=72dJa33v5zMuc77LwhQuUZucgYE4ZTr6 to asset
+2020-10-21T13:14:03-0400 [INFO    ] backups2datalad.py Syncing asset /sub-210862/sub-210862_ses-20130628_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:03-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:14:04-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:14:04-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/67/26/6726f00be78b4c4bac940793b54496c9 -> /mnt/backup/dandi/dandisets/000010/sub-210862/sub-210862_ses-20130628_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:05-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:14:11-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/67/26/6726f00be78b4c4bac940793b54496c9?versionId=kqn_WnmxmXkyI4Z6WRROMMdG_KC13zND to asset
+2020-10-21T13:14:11-0400 [INFO    ] backups2datalad.py Syncing asset /sub-210863/sub-210863_ses-20130626_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:11-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:14:12-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:14:12-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/86/b3/86b35f9e4bd6483f99f30ffab37ea813 -> /mnt/backup/dandi/dandisets/000010/sub-210863/sub-210863_ses-20130626_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:13-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:14:15-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/86/b3/86b35f9e4bd6483f99f30ffab37ea813?versionId=vnvTvOos7ULaHFpl1phniJYelvdwydCS to asset
+2020-10-21T13:14:15-0400 [INFO    ] backups2datalad.py Syncing asset /sub-210863/sub-210863_ses-20130627_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:15-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:14:15-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:14:15-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/3f/64/3f64c5a2581b45bbacf46ba469a08219 -> /mnt/backup/dandi/dandisets/000010/sub-210863/sub-210863_ses-20130627_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:15-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:14:17-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/3f/64/3f64c5a2581b45bbacf46ba469a08219?versionId=4zI2s95VbQ_66xzL5i8WLzJ4aCB0EBoU to asset
+2020-10-21T13:14:18-0400 [INFO    ] backups2datalad.py Syncing asset /sub-210863/sub-210863_ses-20130628_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:18-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:14:18-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:14:18-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a6/9b/a69b9fdf2cd54dc9843c2c2c8101f5cf -> /mnt/backup/dandi/dandisets/000010/sub-210863/sub-210863_ses-20130628_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:20-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:14:23-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a6/9b/a69b9fdf2cd54dc9843c2c2c8101f5cf?versionId=TRmGazg0ix.nP4AL_8r2sqwk2mVSMkad to asset
+2020-10-21T13:14:23-0400 [INFO    ] backups2datalad.py Syncing asset /sub-214427/sub-214427_ses-20130805_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:23-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:14:23-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:14:23-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/9e/34/9e343431f9d349ceb1098a3130af6aab -> /mnt/backup/dandi/dandisets/000010/sub-214427/sub-214427_ses-20130805_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:23-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:14:26-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/9e/34/9e343431f9d349ceb1098a3130af6aab?versionId=YHZRZZNsN2YXKMdGItc_eMu_UgXx.IYV to asset
+2020-10-21T13:14:26-0400 [INFO    ] backups2datalad.py Syncing asset /sub-214427/sub-214427_ses-20130806_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:26-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:14:27-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:14:27-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/fe/db/fedbc32dc5eb4a918568b395a54772ed -> /mnt/backup/dandi/dandisets/000010/sub-214427/sub-214427_ses-20130806_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:27-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:14:29-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/fe/db/fedbc32dc5eb4a918568b395a54772ed?versionId=QbVoReoqciJYDW5VcWBeEUubKHTX4qPG to asset
+2020-10-21T13:14:29-0400 [INFO    ] backups2datalad.py Syncing asset /sub-214427/sub-214427_ses-20130807_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:29-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:14:29-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:14:29-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/71/95/719515528a764214a1b3406f18c50033 -> /mnt/backup/dandi/dandisets/000010/sub-214427/sub-214427_ses-20130807_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:30-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:14:34-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/71/95/719515528a764214a1b3406f18c50033?versionId=WZigPl7nxmnFWkLEnvdTv5qTlXpPJ9jK to asset
+2020-10-21T13:14:34-0400 [INFO    ] backups2datalad.py Syncing asset /sub-214427/sub-214427_ses-20130808_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:34-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:14:35-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:14:35-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/59/05/5905b8ea4d0646e092b68de0afe7ab78 -> /mnt/backup/dandi/dandisets/000010/sub-214427/sub-214427_ses-20130808_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:35-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:14:37-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/59/05/5905b8ea4d0646e092b68de0afe7ab78?versionId=a9pIodpwD0Mnyd28fYsmWXPy8EOzQvO8 to asset
+2020-10-21T13:14:38-0400 [INFO    ] backups2datalad.py Syncing asset /sub-214429/sub-214429_ses-20130805_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:38-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:14:38-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:14:38-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8f/1f/8f1f794a3cfa4adf8c19d4cf17b02b32 -> /mnt/backup/dandi/dandisets/000010/sub-214429/sub-214429_ses-20130805_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:38-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:14:42-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8f/1f/8f1f794a3cfa4adf8c19d4cf17b02b32?versionId=Zb64HvKpdK3KwtdcHs0747Qt5ghEQftv to asset
+2020-10-21T13:14:42-0400 [INFO    ] backups2datalad.py Syncing asset /sub-214429/sub-214429_ses-20130806_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:42-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:14:42-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:14:42-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/34/08/34085f158f21494686e7f0d32e8ee02e -> /mnt/backup/dandi/dandisets/000010/sub-214429/sub-214429_ses-20130806_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:43-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:14:47-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/34/08/34085f158f21494686e7f0d32e8ee02e?versionId=uKvOIcIugz55PTZDSTCyggpZkSNO.OTm to asset
+2020-10-21T13:14:47-0400 [INFO    ] backups2datalad.py Syncing asset /sub-214429/sub-214429_ses-20130807_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:47-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:14:47-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:14:47-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/14/ad/14ad093c97ab4dbab6ba654bbd5ddbc5 -> /mnt/backup/dandi/dandisets/000010/sub-214429/sub-214429_ses-20130807_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:47-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:14:51-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/14/ad/14ad093c97ab4dbab6ba654bbd5ddbc5?versionId=2iEx1zU8c3kYzZS9TNRBxtwuDXn1D4bG to asset
+2020-10-21T13:14:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-214429/sub-214429_ses-20130808_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:52-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:14:52-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:14:52-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ec/7e/ec7e704b48de4111a7f7341f4a14e91f -> /mnt/backup/dandi/dandisets/000010/sub-214429/sub-214429_ses-20130808_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:52-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:14:56-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ec/7e/ec7e704b48de4111a7f7341f4a14e91f?versionId=IFMpRZxijO04qt3vges2S8wU66W1YgZF to asset
+2020-10-21T13:14:56-0400 [INFO    ] backups2datalad.py Syncing asset /sub-214430/sub-214430_ses-20130820_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:56-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:14:57-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:14:57-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/53/b4/53b412e0346845e4b2d3f3f94cad7026 -> /mnt/backup/dandi/dandisets/000010/sub-214430/sub-214430_ses-20130820_behavior+ecephys+ogen.nwb
+2020-10-21T13:14:57-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:00-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/53/b4/53b412e0346845e4b2d3f3f94cad7026?versionId=8D1tcrljVJH80_ypqIv_ne_HkZAk00Pm to asset
+2020-10-21T13:15:00-0400 [INFO    ] backups2datalad.py Syncing asset /sub-214430/sub-214430_ses-20130821_behavior+ecephys+ogen.nwb
+2020-10-21T13:15:00-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:00-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:00-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/51/4b/514b20575caf41649cd17ba6e68477a9 -> /mnt/backup/dandi/dandisets/000010/sub-214430/sub-214430_ses-20130821_behavior+ecephys+ogen.nwb
+2020-10-21T13:15:01-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:05-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/51/4b/514b20575caf41649cd17ba6e68477a9?versionId=JLrurSxw7fIOR6hX5cGSqfgHpKcquIly to asset
+2020-10-21T13:15:05-0400 [INFO    ] backups2datalad.py Syncing asset /sub-214430/sub-214430_ses-20130822_behavior+ecephys+ogen.nwb
+2020-10-21T13:15:05-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:06-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:06-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/0f/2e/0f2e3802d62845fca177c4804b722e45 -> /mnt/backup/dandi/dandisets/000010/sub-214430/sub-214430_ses-20130822_behavior+ecephys+ogen.nwb
+2020-10-21T13:15:06-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:09-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/0f/2e/0f2e3802d62845fca177c4804b722e45?versionId=bHql.SCNtEhPasmv.SD4.pTglvsjXra. to asset
+2020-10-21T13:15:09-0400 [INFO    ] backups2datalad.py Syncing asset /sub-214430/sub-214430_ses-20130823_behavior+ecephys+ogen.nwb
+2020-10-21T13:15:09-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:10-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:10-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ef/a0/efa01934b3a14b168b0a57e90cd31cda -> /mnt/backup/dandi/dandisets/000010/sub-214430/sub-214430_ses-20130823_behavior+ecephys+ogen.nwb
+2020-10-21T13:15:10-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:12-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ef/a0/efa01934b3a14b168b0a57e90cd31cda?versionId=o59suB.iq_MTc4YwbfIXqFgIVIpG8uH0 to asset
+2020-10-21T13:15:12-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130815_obj-12g09i6_behavior+ophys.nwb
+2020-10-21T13:15:12-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:12-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:12-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ca/7f/ca7ff636b7f94ee7a68e6a5db89b163b -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130815_obj-12g09i6_behavior+ophys.nwb
+2020-10-21T13:15:12-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:13-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ca/7f/ca7ff636b7f94ee7a68e6a5db89b163b?versionId=pBNpgfLHmdyAcLsIJTYXkk7_z4.Ki2BN to asset
+2020-10-21T13:15:13-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130815_obj-1eyeli4_behavior+ophys.nwb
+2020-10-21T13:15:13-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:13-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:13-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/fb/99/fb99ade2883246c7bf70f4c4062259e0 -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130815_obj-1eyeli4_behavior+ophys.nwb
+2020-10-21T13:15:13-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:14-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/fb/99/fb99ade2883246c7bf70f4c4062259e0?versionId=6ENOqKEPWw5alpiR6iUl6YPYdrKBluUM to asset
+2020-10-21T13:15:14-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130815_obj-1u51sit_behavior+ophys.nwb
+2020-10-21T13:15:14-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:15-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:15-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/9e/f4/9ef4e1e44a4e49a2990d0173b120e152 -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130815_obj-1u51sit_behavior+ophys.nwb
+2020-10-21T13:15:15-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:15-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/9e/f4/9ef4e1e44a4e49a2990d0173b120e152?versionId=DkVzrGwwPAZQ24kr3HMgyBIPvFK.yxku to asset
+2020-10-21T13:15:16-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130816_obj-1ajdqvr_behavior+ophys.nwb
+2020-10-21T13:15:16-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:16-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:16-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/25/4b/254b8726a3ec486d87ea5646c4275f33 -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130816_obj-1ajdqvr_behavior+ophys.nwb
+2020-10-21T13:15:16-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:17-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/25/4b/254b8726a3ec486d87ea5646c4275f33?versionId=C4pl2dcEwttzg6rIz.kMZ8IO3oz0dQXD to asset
+2020-10-21T13:15:17-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130816_obj-1do4dq2_behavior+ophys.nwb
+2020-10-21T13:15:17-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:17-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:17-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f7/ba/f7ba06b960e54f47ae7f8bab9898884f -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130816_obj-1do4dq2_behavior+ophys.nwb
+2020-10-21T13:15:17-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:19-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f7/ba/f7ba06b960e54f47ae7f8bab9898884f?versionId=YMeRGDmjs7BPLkIsKbrMX_el07iBgy5c to asset
+2020-10-21T13:15:19-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130816_obj-1hn4ta1_behavior+ophys.nwb
+2020-10-21T13:15:19-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:20-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:20-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/88/40/88403afb90474525ae3b737715ab7ee5 -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130816_obj-1hn4ta1_behavior+ophys.nwb
+2020-10-21T13:15:20-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:20-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/88/40/88403afb90474525ae3b737715ab7ee5?versionId=hyAfwFLrAOmJG037r_KuPvcHleSlNmHO to asset
+2020-10-21T13:15:21-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130816_obj-n71k1t_behavior+ophys.nwb
+2020-10-21T13:15:21-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:21-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:21-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/fb/0c/fb0c0f6e165d47c2a24c4d2664d52681 -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130816_obj-n71k1t_behavior+ophys.nwb
+2020-10-21T13:15:21-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:22-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/fb/0c/fb0c0f6e165d47c2a24c4d2664d52681?versionId=t6PT9VeMKmabN6gc9WYSu_BRZyYbYzhA to asset
+2020-10-21T13:15:22-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130819_obj-17f2orf_behavior+ophys.nwb
+2020-10-21T13:15:22-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:22-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:22-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/15/1c/151c346b85ae4a1f8cbb1cc626a3165b -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130819_obj-17f2orf_behavior+ophys.nwb
+2020-10-21T13:15:22-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:23-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/15/1c/151c346b85ae4a1f8cbb1cc626a3165b?versionId=p53Lxmq.YebI.XJxec1H5iZVRXtaMbZ8 to asset
+2020-10-21T13:15:23-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130819_obj-1eu4fsw_behavior+ophys.nwb
+2020-10-21T13:15:23-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:24-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:24-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c3/90/c390f4f8989e45c285a552b03349e66d -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130819_obj-1eu4fsw_behavior+ophys.nwb
+2020-10-21T13:15:24-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:24-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c3/90/c390f4f8989e45c285a552b03349e66d?versionId=89TkbitjQHl0Nu.OpEMXO6wwtlKPUSlZ to asset
+2020-10-21T13:15:25-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130819_obj-hsu7he_behavior+ophys.nwb
+2020-10-21T13:15:25-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:25-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:25-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/95/30/953062f9e80a44ab9ab8badac0045301 -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130819_obj-hsu7he_behavior+ophys.nwb
+2020-10-21T13:15:25-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:25-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/95/30/953062f9e80a44ab9ab8badac0045301?versionId=YvBPfLx8fuD1xayOmEuzKd6ysrdqkO3l to asset
+2020-10-21T13:15:26-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130819_obj-jukzzy_behavior+ophys.nwb
+2020-10-21T13:15:26-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:26-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:26-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/0f/16/0f1604c3e86c43baafa93b84b04299e5 -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130819_obj-jukzzy_behavior+ophys.nwb
+2020-10-21T13:15:26-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:27-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/0f/16/0f1604c3e86c43baafa93b84b04299e5?versionId=N10sshtw0HKzABH4HzsHnakTfOaL6aEO to asset
+2020-10-21T13:15:27-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130819_obj-t4wtq0_behavior+ophys.nwb
+2020-10-21T13:15:27-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:27-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:27-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e9/50/e950919d1fbe4686b22d85dc620a6541 -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130819_obj-t4wtq0_behavior+ophys.nwb
+2020-10-21T13:15:27-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:28-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e9/50/e950919d1fbe4686b22d85dc620a6541?versionId=5Z3HnyEvgNTkpafgEOOCXYLb8wiMekbd to asset
+2020-10-21T13:15:28-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130820_obj-1bbw9a0_behavior+ophys.nwb
+2020-10-21T13:15:28-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:28-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:28-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8f/15/8f152809d88b42289666d31724d969bf -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130820_obj-1bbw9a0_behavior+ophys.nwb
+2020-10-21T13:15:28-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:29-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8f/15/8f152809d88b42289666d31724d969bf?versionId=uLcTmTqg94NZvthJZFJtxCapc3qhqu4G to asset
+2020-10-21T13:15:29-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130820_obj-8kjwwt_behavior+ophys.nwb
+2020-10-21T13:15:29-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:30-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:30-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/3a/9d/3a9d0ed2bf324e7585185772d98681a4 -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130820_obj-8kjwwt_behavior+ophys.nwb
+2020-10-21T13:15:30-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:30-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/3a/9d/3a9d0ed2bf324e7585185772d98681a4?versionId=wGpoQTdtDJLp3eYOSAXC6crvCqNI5wsu to asset
+2020-10-21T13:15:30-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130820_obj-upv7sr_behavior+ophys.nwb
+2020-10-21T13:15:30-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:31-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:31-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/30/e3/30e3347f5c86498dab7aed890aa003b6 -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130820_obj-upv7sr_behavior+ophys.nwb
+2020-10-21T13:15:31-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:31-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/30/e3/30e3347f5c86498dab7aed890aa003b6?versionId=XqK1rfQ2Y.IkBZuYlhdvk_nDnTHFz1iA to asset
+2020-10-21T13:15:31-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130820_obj-wwnqyd_behavior+ophys.nwb
+2020-10-21T13:15:31-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:32-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:32-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/83/0b/830ba8e3c997417e8ffcaacebb1e7093 -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130820_obj-wwnqyd_behavior+ophys.nwb
+2020-10-21T13:15:32-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:32-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/83/0b/830ba8e3c997417e8ffcaacebb1e7093?versionId=AxIgP1a3DVDduShxFhm0GboYiYn_UQR0 to asset
+2020-10-21T13:15:33-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130821_obj-15zarrq_behavior+ophys.nwb
+2020-10-21T13:15:33-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:33-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:33-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/93/f3/93f39220a2b74ccc9eaccfb63d9579e9 -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130821_obj-15zarrq_behavior+ophys.nwb
+2020-10-21T13:15:33-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/93/f3/93f39220a2b74ccc9eaccfb63d9579e9?versionId=CaGwWmdwUNo5WhHSDYl47mfTGeDIB5fX to asset
+2020-10-21T13:15:34-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130821_obj-1hqwhdv_behavior+ophys.nwb
+2020-10-21T13:15:34-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:34-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:34-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/52/75/5275da82c7c3442ebafc84a3e856ba17 -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130821_obj-1hqwhdv_behavior+ophys.nwb
+2020-10-21T13:15:34-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:34-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/52/75/5275da82c7c3442ebafc84a3e856ba17?versionId=X5Z7Cd9q2U7goCP9Zh8xmg_FELNX_wys to asset
+2020-10-21T13:15:35-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130821_obj-1w9j9h0_behavior+ophys.nwb
+2020-10-21T13:15:35-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:35-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:35-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1a/61/1a61e9794f3841c180be7ddca9176ffc -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130821_obj-1w9j9h0_behavior+ophys.nwb
+2020-10-21T13:15:35-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:36-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1a/61/1a61e9794f3841c180be7ddca9176ffc?versionId=y1mGkCxC5InmFMotklh8eOUbDRcbd1_C to asset
+2020-10-21T13:15:36-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130821_obj-s1me5n_behavior+ophys.nwb
+2020-10-21T13:15:36-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:36-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:36-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/7a/63/7a634a8f86394032ac3c605e30972ddb -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130821_obj-s1me5n_behavior+ophys.nwb
+2020-10-21T13:15:36-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:37-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/7a/63/7a634a8f86394032ac3c605e30972ddb?versionId=8nRm41WZ1NN1rFAA1rZX..lfYaTst7_c to asset
+2020-10-21T13:15:37-0400 [INFO    ] backups2datalad.py Syncing asset /sub-216219/sub-216219_ses-20130821_obj-sgs1hx_behavior+ophys.nwb
+2020-10-21T13:15:37-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:37-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:37-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e5/0b/e50bc75f2161410fa5a88dc84d6425bd -> /mnt/backup/dandi/dandisets/000010/sub-216219/sub-216219_ses-20130821_obj-sgs1hx_behavior+ophys.nwb
+2020-10-21T13:15:37-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:38-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e5/0b/e50bc75f2161410fa5a88dc84d6425bd?versionId=BnNvyFB9n6n5RxY3lZ3joPL5mhbp2GRM to asset
+2020-10-21T13:15:38-0400 [INFO    ] backups2datalad.py Syncing asset /sub-217951/sub-217951_ses-20131009_behavior+ophys.nwb
+2020-10-21T13:15:38-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:39-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:39-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/96/df/96df189082ac4ac4845920fa7f28dcaf -> /mnt/backup/dandi/dandisets/000010/sub-217951/sub-217951_ses-20131009_behavior+ophys.nwb
+2020-10-21T13:15:39-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:40-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/96/df/96df189082ac4ac4845920fa7f28dcaf?versionId=0KMAbm1oKB32Y9cFjEl5iNFn6CEkDe6v to asset
+2020-10-21T13:15:40-0400 [INFO    ] backups2datalad.py Syncing asset /sub-217951/sub-217951_ses-20131010_obj-1f8meby_behavior+ophys.nwb
+2020-10-21T13:15:40-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:40-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:40-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/4f/07/4f07582262ec4677a36abc882ed12966 -> /mnt/backup/dandi/dandisets/000010/sub-217951/sub-217951_ses-20131010_obj-1f8meby_behavior+ophys.nwb
+2020-10-21T13:15:40-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:41-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/4f/07/4f07582262ec4677a36abc882ed12966?versionId=6Xx69phRenKWUCy.rNaVbz5Ovj0tlyQ5 to asset
+2020-10-21T13:15:42-0400 [INFO    ] backups2datalad.py Syncing asset /sub-217951/sub-217951_ses-20131010_obj-1wjcj56_behavior+ophys.nwb
+2020-10-21T13:15:42-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:42-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:42-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/4f/4b/4f4b4c025e5b4173a6c5661514b742cb -> /mnt/backup/dandi/dandisets/000010/sub-217951/sub-217951_ses-20131010_obj-1wjcj56_behavior+ophys.nwb
+2020-10-21T13:15:42-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:43-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/4f/4b/4f4b4c025e5b4173a6c5661514b742cb?versionId=H7YR.hSMBRv7x.VSGeOcr5xhXtV8TcM4 to asset
+2020-10-21T13:15:43-0400 [INFO    ] backups2datalad.py Syncing asset /sub-217951/sub-217951_ses-20131010_obj-ddzzxp_behavior+ophys.nwb
+2020-10-21T13:15:43-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:43-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:43-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/86/84/86849d1ec0804daab42cdc124c513f69 -> /mnt/backup/dandi/dandisets/000010/sub-217951/sub-217951_ses-20131010_obj-ddzzxp_behavior+ophys.nwb
+2020-10-21T13:15:43-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:44-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/86/84/86849d1ec0804daab42cdc124c513f69?versionId=uvjd9X4a02V1n7OIQ9YjM7uZmImzuLxD to asset
+2020-10-21T13:15:44-0400 [INFO    ] backups2datalad.py Syncing asset /sub-217951/sub-217951_ses-20131011_obj-awtc5i_behavior+ophys.nwb
+2020-10-21T13:15:44-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:45-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:45-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/50/33/5033e31ae95a4e0ba3dc60d493ec9247 -> /mnt/backup/dandi/dandisets/000010/sub-217951/sub-217951_ses-20131011_obj-awtc5i_behavior+ophys.nwb
+2020-10-21T13:15:45-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:45-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/50/33/5033e31ae95a4e0ba3dc60d493ec9247?versionId=tO3DYU.RjjZ8ITwUDPv0LknBdi9jxp4r to asset
+2020-10-21T13:15:46-0400 [INFO    ] backups2datalad.py Syncing asset /sub-217951/sub-217951_ses-20131011_obj-fu5121_behavior+ophys.nwb
+2020-10-21T13:15:46-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:46-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:46-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ce/47/ce47395e590f443db9e954410a43f2b6 -> /mnt/backup/dandi/dandisets/000010/sub-217951/sub-217951_ses-20131011_obj-fu5121_behavior+ophys.nwb
+2020-10-21T13:15:46-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:50-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ce/47/ce47395e590f443db9e954410a43f2b6?versionId=_xH0OcdyuimKuqeJ1LFqrZ800UGTQ1zP to asset
+2020-10-21T13:15:50-0400 [INFO    ] backups2datalad.py Syncing asset /sub-217951/sub-217951_ses-20131014_obj-1jpvswn_behavior+ophys.nwb
+2020-10-21T13:15:50-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:50-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:50-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/d0/c2/d0c2623315a243fa957c0efe12e39d0e -> /mnt/backup/dandi/dandisets/000010/sub-217951/sub-217951_ses-20131014_obj-1jpvswn_behavior+ophys.nwb
+2020-10-21T13:15:50-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:51-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/d0/c2/d0c2623315a243fa957c0efe12e39d0e?versionId=pvakuKs_p2S2m7O9QZNwxDRAtnFJuaav to asset
+2020-10-21T13:15:51-0400 [INFO    ] backups2datalad.py Syncing asset /sub-217951/sub-217951_ses-20131014_obj-8drknu_behavior+ophys.nwb
+2020-10-21T13:15:51-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:51-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:51-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/7f/9e/7f9e4af7095c4d8aaabaa9c5900f0e28 -> /mnt/backup/dandi/dandisets/000010/sub-217951/sub-217951_ses-20131014_obj-8drknu_behavior+ophys.nwb
+2020-10-21T13:15:51-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:51-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/7f/9e/7f9e4af7095c4d8aaabaa9c5900f0e28?versionId=obYn9d4j19GoaXWxGuBvqpaRTaJ2Tq_h to asset
+2020-10-21T13:15:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-217951/sub-217951_ses-20131015_obj-110lo5x_behavior+ophys.nwb
+2020-10-21T13:15:52-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:52-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:52-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ee/ce/eecec023dad941a2a413262dbe049115 -> /mnt/backup/dandi/dandisets/000010/sub-217951/sub-217951_ses-20131015_obj-110lo5x_behavior+ophys.nwb
+2020-10-21T13:15:52-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:52-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ee/ce/eecec023dad941a2a413262dbe049115?versionId=8GZ.qn2Ub98ZlXHLSwgeoOKtUVc.IlPb to asset
+2020-10-21T13:15:53-0400 [INFO    ] backups2datalad.py Syncing asset /sub-217951/sub-217951_ses-20131015_obj-mhn6vm_behavior+ophys.nwb
+2020-10-21T13:15:53-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:53-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:53-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/15/3f/153fc3e1c2ab48a2acaab7b360175ff5 -> /mnt/backup/dandi/dandisets/000010/sub-217951/sub-217951_ses-20131015_obj-mhn6vm_behavior+ophys.nwb
+2020-10-21T13:15:53-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:54-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/15/3f/153fc3e1c2ab48a2acaab7b360175ff5?versionId=xb5rjnsJgjR1d.9ELUOkDs7aHAC1lYUU to asset
+2020-10-21T13:15:54-0400 [INFO    ] backups2datalad.py Syncing asset /sub-217951/sub-217951_ses-20131015_obj-xa1zvi_behavior+ophys.nwb
+2020-10-21T13:15:54-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:54-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:54-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/d5/b6/d5b610ff82b84fe1b99e0a4bc94db95a -> /mnt/backup/dandi/dandisets/000010/sub-217951/sub-217951_ses-20131015_obj-xa1zvi_behavior+ophys.nwb
+2020-10-21T13:15:54-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:55-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/d5/b6/d5b610ff82b84fe1b99e0a4bc94db95a?versionId=yU9qqvWTglxRwmkNNNjUnmeqb81I_kY5 to asset
+2020-10-21T13:15:55-0400 [INFO    ] backups2datalad.py Syncing asset /sub-218453/sub-218453_ses-20131014_behavior+ecephys.nwb
+2020-10-21T13:15:55-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:55-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:55-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/2e/b0/2eb088a2b67d457990bc64407810e953 -> /mnt/backup/dandi/dandisets/000010/sub-218453/sub-218453_ses-20131014_behavior+ecephys.nwb
+2020-10-21T13:15:55-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:15:57-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/2e/b0/2eb088a2b67d457990bc64407810e953?versionId=h6XmaJzwruqCNsM56e35UFOAjQoFxx7R to asset
+2020-10-21T13:15:58-0400 [INFO    ] backups2datalad.py Syncing asset /sub-218453/sub-218453_ses-20131015_behavior+ecephys.nwb
+2020-10-21T13:15:58-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:15:58-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:15:58-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b6/5b/b65b531555a34d4fb18ca60e10d637e2 -> /mnt/backup/dandi/dandisets/000010/sub-218453/sub-218453_ses-20131015_behavior+ecephys.nwb
+2020-10-21T13:15:58-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:00-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b6/5b/b65b531555a34d4fb18ca60e10d637e2?versionId=hVcRxJMmudR8xX9yyh1Mj6RU3lcbIGmV to asset
+2020-10-21T13:16:00-0400 [INFO    ] backups2datalad.py Syncing asset /sub-218453/sub-218453_ses-20131016_behavior+ecephys.nwb
+2020-10-21T13:16:00-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:00-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:00-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/77/e2/77e248364bf84b96a74c49368d479d40 -> /mnt/backup/dandi/dandisets/000010/sub-218453/sub-218453_ses-20131016_behavior+ecephys.nwb
+2020-10-21T13:16:00-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:02-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/77/e2/77e248364bf84b96a74c49368d479d40?versionId=buqoKwd8zADOl_d2oZi9JsMMiVcGOnDm to asset
+2020-10-21T13:16:02-0400 [INFO    ] backups2datalad.py Syncing asset /sub-218453/sub-218453_ses-20131017_behavior+ecephys.nwb
+2020-10-21T13:16:02-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:03-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:03-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/68/63/6863d28413cb4a62be0c1dca12d8d344 -> /mnt/backup/dandi/dandisets/000010/sub-218453/sub-218453_ses-20131017_behavior+ecephys.nwb
+2020-10-21T13:16:03-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:04-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/68/63/6863d28413cb4a62be0c1dca12d8d344?versionId=UmJnwyjJpun7359i2gmv_YPVA_Xwz_Ri to asset
+2020-10-21T13:16:05-0400 [INFO    ] backups2datalad.py Syncing asset /sub-218453/sub-218453_ses-20131018_behavior+ecephys.nwb
+2020-10-21T13:16:05-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:05-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:05-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/cb/03/cb031896ed994c1aba67a8c07efe55f1 -> /mnt/backup/dandi/dandisets/000010/sub-218453/sub-218453_ses-20131018_behavior+ecephys.nwb
+2020-10-21T13:16:05-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:07-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/cb/03/cb031896ed994c1aba67a8c07efe55f1?versionId=z8nO4JPVZ2VSZ7plO9WHM8xvkt6gIoYZ to asset
+2020-10-21T13:16:07-0400 [INFO    ] backups2datalad.py Syncing asset /sub-218457/sub-218457_ses-20131003_behavior+ecephys.nwb
+2020-10-21T13:16:07-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:08-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:08-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f6/33/f633f96f2c144c27860ec43510136633 -> /mnt/backup/dandi/dandisets/000010/sub-218457/sub-218457_ses-20131003_behavior+ecephys.nwb
+2020-10-21T13:16:08-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:09-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f6/33/f633f96f2c144c27860ec43510136633?versionId=qyG7t.FX32YkOi_9yTmM4QNIah6dyalt to asset
+2020-10-21T13:16:10-0400 [INFO    ] backups2datalad.py Syncing asset /sub-218457/sub-218457_ses-20131004_behavior+ecephys.nwb
+2020-10-21T13:16:10-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:10-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:10-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a5/d4/a5d4b2d9a4a843e2bcb67265a28ff460 -> /mnt/backup/dandi/dandisets/000010/sub-218457/sub-218457_ses-20131004_behavior+ecephys.nwb
+2020-10-21T13:16:10-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:12-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a5/d4/a5d4b2d9a4a843e2bcb67265a28ff460?versionId=46beBUtuud7QScOG098AuxXUQkpazI3e to asset
+2020-10-21T13:16:12-0400 [INFO    ] backups2datalad.py Syncing asset /sub-218457/sub-218457_ses-20131005_behavior+ecephys.nwb
+2020-10-21T13:16:12-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:12-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:12-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c6/02/c602320198c44515bae6af07bb05ae49 -> /mnt/backup/dandi/dandisets/000010/sub-218457/sub-218457_ses-20131005_behavior+ecephys.nwb
+2020-10-21T13:16:12-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:14-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c6/02/c602320198c44515bae6af07bb05ae49?versionId=o07GjNO8MrD7pehx8miZ0xKXwWymWWpC to asset
+2020-10-21T13:16:14-0400 [INFO    ] backups2datalad.py Syncing asset /sub-218457/sub-218457_ses-20131006_behavior+ecephys.nwb
+2020-10-21T13:16:14-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:15-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:15-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c9/7e/c97e288412454095ad0c989690531a27 -> /mnt/backup/dandi/dandisets/000010/sub-218457/sub-218457_ses-20131006_behavior+ecephys.nwb
+2020-10-21T13:16:15-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:17-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c9/7e/c97e288412454095ad0c989690531a27?versionId=DIS3JB7WglmS6rdp8yjclIyWF_IyLy3m to asset
+2020-10-21T13:16:17-0400 [INFO    ] backups2datalad.py Syncing asset /sub-218457/sub-218457_ses-20131007_behavior+ecephys.nwb
+2020-10-21T13:16:17-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:18-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:18-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/3a/b8/3ab86ef6db194f13b6a7e813cf8ecdcd -> /mnt/backup/dandi/dandisets/000010/sub-218457/sub-218457_ses-20131007_behavior+ecephys.nwb
+2020-10-21T13:16:18-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:19-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/3a/b8/3ab86ef6db194f13b6a7e813cf8ecdcd?versionId=xVDh5JsIT3pSZ7mLJp.voeb97hEwaW_c to asset
+2020-10-21T13:16:20-0400 [INFO    ] backups2datalad.py Syncing asset /sub-218457/sub-218457_ses-20131008_behavior+ecephys.nwb
+2020-10-21T13:16:20-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:20-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:20-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/cc/7f/cc7fb8b69f9a4c79baeca90f65c42bf9 -> /mnt/backup/dandi/dandisets/000010/sub-218457/sub-218457_ses-20131008_behavior+ecephys.nwb
+2020-10-21T13:16:20-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:22-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/cc/7f/cc7fb8b69f9a4c79baeca90f65c42bf9?versionId=YMChtiBiLvWQWisbcZZH6vAdj2BgadeQ to asset
+2020-10-21T13:16:22-0400 [INFO    ] backups2datalad.py Syncing asset /sub-218693/sub-218693_ses-20131203_behavior+ecephys.nwb
+2020-10-21T13:16:22-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:23-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:23-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/98/f0/98f0145a628e49fca8c2acabd3f896b2 -> /mnt/backup/dandi/dandisets/000010/sub-218693/sub-218693_ses-20131203_behavior+ecephys.nwb
+2020-10-21T13:16:23-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:25-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/98/f0/98f0145a628e49fca8c2acabd3f896b2?versionId=2rdzHMYiSfWWlISPO6yFGwEXBGi6J20n to asset
+2020-10-21T13:16:25-0400 [INFO    ] backups2datalad.py Syncing asset /sub-218693/sub-218693_ses-20131204_behavior+ecephys.nwb
+2020-10-21T13:16:25-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:26-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:26-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8b/2f/8b2f487f79254f669da5bb84ada15818 -> /mnt/backup/dandi/dandisets/000010/sub-218693/sub-218693_ses-20131204_behavior+ecephys.nwb
+2020-10-21T13:16:26-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:27-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8b/2f/8b2f487f79254f669da5bb84ada15818?versionId=CJj.sitnlwaxrdhjojsLXyY0aTGsbjn3 to asset
+2020-10-21T13:16:28-0400 [INFO    ] backups2datalad.py Syncing asset /sub-218693/sub-218693_ses-20131205_behavior+ecephys.nwb
+2020-10-21T13:16:28-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:28-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:28-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/4f/d2/4fd293af0fc04dc991b0f60e88cdf801 -> /mnt/backup/dandi/dandisets/000010/sub-218693/sub-218693_ses-20131205_behavior+ecephys.nwb
+2020-10-21T13:16:28-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:30-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/4f/d2/4fd293af0fc04dc991b0f60e88cdf801?versionId=NJ0CTF6.dxqKVqrZRUJdanuXi6Oth_AM to asset
+2020-10-21T13:16:30-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219030/sub-219030_ses-20130829_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:30-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:31-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:31-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/60/f1/60f19ba0e45540d5acb616fe5b9b5712 -> /mnt/backup/dandi/dandisets/000010/sub-219030/sub-219030_ses-20130829_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:31-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/60/f1/60f19ba0e45540d5acb616fe5b9b5712?versionId=DsXPfPgVXeF3QdacJKshgyhH1D5JlwZC to asset
+2020-10-21T13:16:34-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219030/sub-219030_ses-20130830_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:34-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:34-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:34-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c5/f1/c5f1a808c33a4247b264f92049626df2 -> /mnt/backup/dandi/dandisets/000010/sub-219030/sub-219030_ses-20130830_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:34-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:37-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c5/f1/c5f1a808c33a4247b264f92049626df2?versionId=OEvG5gi9uVQ6CEKU4iQWtVc_yqFlYJF1 to asset
+2020-10-21T13:16:37-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219030/sub-219030_ses-20130831_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:37-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:38-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:38-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e2/c5/e2c553e84ab1497686284f479529307a -> /mnt/backup/dandi/dandisets/000010/sub-219030/sub-219030_ses-20130831_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:38-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:41-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e2/c5/e2c553e84ab1497686284f479529307a?versionId=V6nMTrVxePK3jDKOFkBoCmMsF55lObHN to asset
+2020-10-21T13:16:41-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219030/sub-219030_ses-20130901_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:41-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:42-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:42-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/6c/dd/6cdd56503f944f689ec07b61906d8c1d -> /mnt/backup/dandi/dandisets/000010/sub-219030/sub-219030_ses-20130901_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:42-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:44-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/6c/dd/6cdd56503f944f689ec07b61906d8c1d?versionId=3yDvrU5ONYO4yeSmdlJrCrQXdN0tiM9o to asset
+2020-10-21T13:16:44-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219030/sub-219030_ses-20130903_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:44-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:45-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:45-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/09/b3/09b3332863ad448587cc53c93c58f238 -> /mnt/backup/dandi/dandisets/000010/sub-219030/sub-219030_ses-20130903_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:45-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:48-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/09/b3/09b3332863ad448587cc53c93c58f238?versionId=7I_78J6zqqVM.ZUcGONenPe_E2wsgHy9 to asset
+2020-10-21T13:16:48-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219031/sub-219031_ses-20131021_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:48-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:49-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:49-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/6e/0e/6e0efe5e404e470bb61a79155954b658 -> /mnt/backup/dandi/dandisets/000010/sub-219031/sub-219031_ses-20131021_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:49-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:53-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/6e/0e/6e0efe5e404e470bb61a79155954b658?versionId=iKe11QObH0X0MYjas2p.iKtU2v3iGPbR to asset
+2020-10-21T13:16:53-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219031/sub-219031_ses-20131022_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:53-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:53-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:53-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/0a/9f/0a9f7c9a53ac4611ad32cc77f8e7faf1 -> /mnt/backup/dandi/dandisets/000010/sub-219031/sub-219031_ses-20131022_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:53-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:56-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/0a/9f/0a9f7c9a53ac4611ad32cc77f8e7faf1?versionId=a448S22rzJ6Ha3oLj8zBEPKsUN5n8iKZ to asset
+2020-10-21T13:16:56-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219031/sub-219031_ses-20131023_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:56-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:16:57-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:16:57-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/18/af/18af40bc2a02408fb031be773a03b41a -> /mnt/backup/dandi/dandisets/000010/sub-219031/sub-219031_ses-20131023_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:57-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:16:59-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/18/af/18af40bc2a02408fb031be773a03b41a?versionId=1viFc5wx7huwUXI0tsWfIph_vsPg_oKJ to asset
+2020-10-21T13:16:59-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219031/sub-219031_ses-20131024_behavior+ecephys+ogen.nwb
+2020-10-21T13:16:59-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:00-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:00-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/46/0f/460f4ee718224565b2ed71bbc43e492f -> /mnt/backup/dandi/dandisets/000010/sub-219031/sub-219031_ses-20131024_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:00-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:01-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/46/0f/460f4ee718224565b2ed71bbc43e492f?versionId=JpWa7xOC.iI6eEnKAiHGDhPzg0tyuqXr to asset
+2020-10-21T13:17:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219031/sub-219031_ses-20131025_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:01-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:02-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:02-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e2/64/e2646306842e41d2ab1befee5df45577 -> /mnt/backup/dandi/dandisets/000010/sub-219031/sub-219031_ses-20131025_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:02-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:04-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e2/64/e2646306842e41d2ab1befee5df45577?versionId=ldMDXSfcizVMe998XuHzRC25Fe37yYYO to asset
+2020-10-21T13:17:05-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219033/sub-219033_ses-20131116_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:05-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:05-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:05-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b1/f0/b1f0dd4436ab47fea3d47ffea7cfe7ab -> /mnt/backup/dandi/dandisets/000010/sub-219033/sub-219033_ses-20131116_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:05-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:07-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b1/f0/b1f0dd4436ab47fea3d47ffea7cfe7ab?versionId=lnM25Zh9F7MVH4LNDH.RsHzN8aBObsq3 to asset
+2020-10-21T13:17:07-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219033/sub-219033_ses-20131117_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:07-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:08-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:08-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/48/31/4831d095eed744a7bd51fb2bdec201a7 -> /mnt/backup/dandi/dandisets/000010/sub-219033/sub-219033_ses-20131117_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:08-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:09-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/48/31/4831d095eed744a7bd51fb2bdec201a7?versionId=PJHkIz5aQSbl3ptfz1Vuooq1abBKaIbK to asset
+2020-10-21T13:17:10-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219033/sub-219033_ses-20131118_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:10-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:10-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:10-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1a/0a/1a0a9f0f592845c1a00674c9c31df8ef -> /mnt/backup/dandi/dandisets/000010/sub-219033/sub-219033_ses-20131118_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:10-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:12-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1a/0a/1a0a9f0f592845c1a00674c9c31df8ef?versionId=MbzwoMwxGkBlO600j25.v8KEmh_MnsWl to asset
+2020-10-21T13:17:13-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219033/sub-219033_ses-20131119_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:13-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:13-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:13-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/64/f6/64f6141beb3e42fc840382374600c340 -> /mnt/backup/dandi/dandisets/000010/sub-219033/sub-219033_ses-20131119_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:13-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:16-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/64/f6/64f6141beb3e42fc840382374600c340?versionId=vqxqTDlVK0RVi9.LvJK0Cubi6hnBnpG0 to asset
+2020-10-21T13:17:16-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219033/sub-219033_ses-20131120_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:16-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:17-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:17-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/cc/88/cc886b4f821f4cf28deaea2427933d9d -> /mnt/backup/dandi/dandisets/000010/sub-219033/sub-219033_ses-20131120_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:17-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:19-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/cc/88/cc886b4f821f4cf28deaea2427933d9d?versionId=k7SHzNzuGzF6cXa85k4miXwGxonslgrz to asset
+2020-10-21T13:17:19-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219033/sub-219033_ses-20131121_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:19-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:20-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:20-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/2a/dc/2adcad084d2d46749c033237f263cea7 -> /mnt/backup/dandi/dandisets/000010/sub-219033/sub-219033_ses-20131121_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:20-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:23-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/2a/dc/2adcad084d2d46749c033237f263cea7?versionId=461kiezmB.XxxDxAD.jM9L_Qoz9HLxnT to asset
+2020-10-21T13:17:23-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219033/sub-219033_ses-20131122_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:23-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:24-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:24-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/4b/08/4b081fe044d8418baed044c6f27240c1 -> /mnt/backup/dandi/dandisets/000010/sub-219033/sub-219033_ses-20131122_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:24-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:26-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/4b/08/4b081fe044d8418baed044c6f27240c1?versionId=qklokNcChPneeGemI.iepXAu.75HyZpB to asset
+2020-10-21T13:17:26-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219036/sub-219036_ses-20131116_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:26-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:27-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:27-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/05/26/05269b37e146456b872dc15ff2b34d0d -> /mnt/backup/dandi/dandisets/000010/sub-219036/sub-219036_ses-20131116_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:27-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:29-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/05/26/05269b37e146456b872dc15ff2b34d0d?versionId=03yaFLewMpjDBHXDH_l.6a8yuzWGDa0l to asset
+2020-10-21T13:17:30-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219036/sub-219036_ses-20131117_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:30-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:30-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:30-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/5b/0e/5b0ed79fa9e74ca6a1a2bf91e86d95be -> /mnt/backup/dandi/dandisets/000010/sub-219036/sub-219036_ses-20131117_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:30-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/5b/0e/5b0ed79fa9e74ca6a1a2bf91e86d95be?versionId=3nQxvlYaeXr0EqVhq_UjHFifsOu1Yrun to asset
+2020-10-21T13:17:33-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219036/sub-219036_ses-20131118_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:33-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:33-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:33-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/32/5c/325c7ae41e9f4f469a6b15c037991c02 -> /mnt/backup/dandi/dandisets/000010/sub-219036/sub-219036_ses-20131118_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:33-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:35-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/32/5c/325c7ae41e9f4f469a6b15c037991c02?versionId=tTWS6Uc7qUrDbtlpVsWVgNON_kULDeCX to asset
+2020-10-21T13:17:35-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219036/sub-219036_ses-20131119_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:35-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:36-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:36-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/8e/3f/8e3f21ff4a624fbe9de5c8c52dcf655c -> /mnt/backup/dandi/dandisets/000010/sub-219036/sub-219036_ses-20131119_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:36-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:38-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/8e/3f/8e3f21ff4a624fbe9de5c8c52dcf655c?versionId=cVrUAQzHBFQlJb7ycKiZRbi69oaRVWZv to asset
+2020-10-21T13:17:38-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219036/sub-219036_ses-20131120_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:38-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:38-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:38-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b6/84/b684fa3f41be4e8d9c234026cd0e44f5 -> /mnt/backup/dandi/dandisets/000010/sub-219036/sub-219036_ses-20131120_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:39-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:40-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b6/84/b684fa3f41be4e8d9c234026cd0e44f5?versionId=u2zwzLNgc006opVlhKZnvcSHzDtdG0l1 to asset
+2020-10-21T13:17:41-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219036/sub-219036_ses-20131121_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:41-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:41-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:41-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e6/b1/e6b10b6a8cc34f2dbc88ec52170f2971 -> /mnt/backup/dandi/dandisets/000010/sub-219036/sub-219036_ses-20131121_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:41-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:44-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e6/b1/e6b10b6a8cc34f2dbc88ec52170f2971?versionId=QdgHdtiVzcPBOyzdQ0aSd9rR9bSRylVH to asset
+2020-10-21T13:17:44-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219036/sub-219036_ses-20131122_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:44-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:44-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:44-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ed/0d/ed0dc2cb5a634e008b9797568691d4b2 -> /mnt/backup/dandi/dandisets/000010/sub-219036/sub-219036_ses-20131122_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:44-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:47-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ed/0d/ed0dc2cb5a634e008b9797568691d4b2?versionId=x1cHbiMYA47gDib2qm.quJhLGX1dg6uc to asset
+2020-10-21T13:17:47-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219037/sub-219037_ses-20131116_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:47-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:47-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:47-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/cf/e2/cfe2a9135cfa438cad43ca6936398bd7 -> /mnt/backup/dandi/dandisets/000010/sub-219037/sub-219037_ses-20131116_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:47-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:50-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/cf/e2/cfe2a9135cfa438cad43ca6936398bd7?versionId=lO7_.rL0lkZMmqDYBOK5yiAxP3y_QsVr to asset
+2020-10-21T13:17:50-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219037/sub-219037_ses-20131117_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:50-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:50-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:50-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/29/83/2983481e667e472d8b25996017e5b598 -> /mnt/backup/dandi/dandisets/000010/sub-219037/sub-219037_ses-20131117_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:50-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:53-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/29/83/2983481e667e472d8b25996017e5b598?versionId=8CBU7aSP938i9J5a5eTAw7xGezXt0Q8I to asset
+2020-10-21T13:17:54-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219037/sub-219037_ses-20131118_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:54-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:54-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:54-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/89/51/895101f9f0184c89954d37db8a71da75 -> /mnt/backup/dandi/dandisets/000010/sub-219037/sub-219037_ses-20131118_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:54-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:17:57-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/89/51/895101f9f0184c89954d37db8a71da75?versionId=GhbhgiWg8pra4vPdg3KzZ7a7AePqchKi to asset
+2020-10-21T13:17:57-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219037/sub-219037_ses-20131119_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:57-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:17:57-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:17:57-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/9e/70/9e7034d41189433db7d2062d86934ca8 -> /mnt/backup/dandi/dandisets/000010/sub-219037/sub-219037_ses-20131119_behavior+ecephys+ogen.nwb
+2020-10-21T13:17:57-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:00-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/9e/70/9e7034d41189433db7d2062d86934ca8?versionId=V9MC0wNnQvxuAZrWnfSqDSUHt2GCGrq2 to asset
+2020-10-21T13:18:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219037/sub-219037_ses-20131120_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:01-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:01-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:01-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/58/88/5888520fccfe480a8dda313d85f7c1e7 -> /mnt/backup/dandi/dandisets/000010/sub-219037/sub-219037_ses-20131120_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:01-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:04-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/58/88/5888520fccfe480a8dda313d85f7c1e7?versionId=j3xVKDm2F1j1Qwz4YpqfpMzXn3lhnIsy to asset
+2020-10-21T13:18:04-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219037/sub-219037_ses-20131121_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:04-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:04-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:04-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/99/8e/998e1474f4844c03b04d38aefc867cb0 -> /mnt/backup/dandi/dandisets/000010/sub-219037/sub-219037_ses-20131121_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:04-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:07-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/99/8e/998e1474f4844c03b04d38aefc867cb0?versionId=dqJUFQJ8UPpoInAi74CY8mmOPRROVE0t to asset
+2020-10-21T13:18:07-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219037/sub-219037_ses-20131122_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:07-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:07-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:07-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e6/dc/e6dc085af2d24559a523d62e16cfd4ec -> /mnt/backup/dandi/dandisets/000010/sub-219037/sub-219037_ses-20131122_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:07-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:10-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e6/dc/e6dc085af2d24559a523d62e16cfd4ec?versionId=pdsv_YJ_ps9WgSsW3BQhGGAE84vdBDKb to asset
+2020-10-21T13:18:10-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219038/sub-219038_ses-20131021_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:10-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:10-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:10-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/07/9c/079c3af21e044ac795d3709d63ef062a -> /mnt/backup/dandi/dandisets/000010/sub-219038/sub-219038_ses-20131021_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:10-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:13-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/07/9c/079c3af21e044ac795d3709d63ef062a?versionId=3eiRhniBWWCs5jD12MGnDcYrlwkDvjNw to asset
+2020-10-21T13:18:13-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219038/sub-219038_ses-20131022_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:13-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:14-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:14-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/bd/9e/bd9e1d4f387f413aa24c5cc845b5c848 -> /mnt/backup/dandi/dandisets/000010/sub-219038/sub-219038_ses-20131022_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:14-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:16-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/bd/9e/bd9e1d4f387f413aa24c5cc845b5c848?versionId=UiGlcUF97rCVEJX1BfPfcho364lpX3br to asset
+2020-10-21T13:18:17-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219038/sub-219038_ses-20131023_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:17-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:17-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:17-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c5/18/c5182c6a8e37444b95cf43a4e73e6f74 -> /mnt/backup/dandi/dandisets/000010/sub-219038/sub-219038_ses-20131023_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:17-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:20-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c5/18/c5182c6a8e37444b95cf43a4e73e6f74?versionId=NR9WcMPRNHEi0xoi91nqLZ_EyknEB3Tr to asset
+2020-10-21T13:18:20-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219038/sub-219038_ses-20131024_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:20-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:20-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:20-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/50/c3/50c3354cd6004d1aa88f24045b915767 -> /mnt/backup/dandi/dandisets/000010/sub-219038/sub-219038_ses-20131024_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:20-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:23-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/50/c3/50c3354cd6004d1aa88f24045b915767?versionId=65VeMInUVmPGfArM.TQAS308dnXgi4Up to asset
+2020-10-21T13:18:23-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219038/sub-219038_ses-20131025_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:23-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:24-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:24-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/62/b0/62b0df0ac8da465bbaab9e50e0f561f9 -> /mnt/backup/dandi/dandisets/000010/sub-219038/sub-219038_ses-20131025_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:24-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:26-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/62/b0/62b0df0ac8da465bbaab9e50e0f561f9?versionId=6HLyImJqtjKknKXdpSs09KEjfoz29zr4 to asset
+2020-10-21T13:18:26-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219038/sub-219038_ses-20131026_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:26-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:27-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:27-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/4d/51/4d51cb037bbd476f8ce8c3e6cd39e4fc -> /mnt/backup/dandi/dandisets/000010/sub-219038/sub-219038_ses-20131026_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:27-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:29-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/4d/51/4d51cb037bbd476f8ce8c3e6cd39e4fc?versionId=eInSWhzUSfgmeiY9x1lpwindRyi1c2zq to asset
+2020-10-21T13:18:30-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219038/sub-219038_ses-20131027_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:30-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:30-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:30-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/76/d4/76d4b637c91247ed86ede8ea8dab3620 -> /mnt/backup/dandi/dandisets/000010/sub-219038/sub-219038_ses-20131027_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:30-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/76/d4/76d4b637c91247ed86ede8ea8dab3620?versionId=fReHSgzn3DZdwyoOWF32D7A1nP62rDVq to asset
+2020-10-21T13:18:33-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219038/sub-219038_ses-20131028_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:33-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:33-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:33-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/5e/fa/5efa53663a794dbfac8b0d6549046577 -> /mnt/backup/dandi/dandisets/000010/sub-219038/sub-219038_ses-20131028_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:34-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:36-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/5e/fa/5efa53663a794dbfac8b0d6549046577?versionId=.wPrs4zXgeFwhJDODWFE8MYfEzcFHpIw to asset
+2020-10-21T13:18:36-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219247/sub-219247_ses-20130919_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:36-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:37-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:37-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/cd/97/cd978fd053774e70b937e3d7076579fd -> /mnt/backup/dandi/dandisets/000010/sub-219247/sub-219247_ses-20130919_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:37-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:40-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/cd/97/cd978fd053774e70b937e3d7076579fd?versionId=lIjoOej3rpuKgk5dOikeVdfysxniYU6C to asset
+2020-10-21T13:18:40-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219247/sub-219247_ses-20130920_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:40-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:40-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:40-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/5c/a6/5ca6d6ebad8748c28c7658a05fd522d0 -> /mnt/backup/dandi/dandisets/000010/sub-219247/sub-219247_ses-20130920_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:41-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:43-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/5c/a6/5ca6d6ebad8748c28c7658a05fd522d0?versionId=.H04avyIPA.xBl9pkghzemx1.obw23_K to asset
+2020-10-21T13:18:44-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219247/sub-219247_ses-20130921_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:44-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:44-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:44-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/35/6f/356f1e5908a54fc79738352c384d872f -> /mnt/backup/dandi/dandisets/000010/sub-219247/sub-219247_ses-20130921_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:44-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:47-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/35/6f/356f1e5908a54fc79738352c384d872f?versionId=q8tCx63W..oAk7nha06OtE83.iJ6D4_N to asset
+2020-10-21T13:18:48-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219247/sub-219247_ses-20130922_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:48-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:48-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:48-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a3/fe/a3fee83f26394f398b088e9f9c7bfd5b -> /mnt/backup/dandi/dandisets/000010/sub-219247/sub-219247_ses-20130922_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:48-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:51-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a3/fe/a3fee83f26394f398b088e9f9c7bfd5b?versionId=GZprwrMJWuUX.TM7KUl5oRN.pJm6wtBm to asset
+2020-10-21T13:18:51-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219247/sub-219247_ses-20130923_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:51-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:52-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:52-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b9/71/b9718c99d10f480d8337542bd44871e2 -> /mnt/backup/dandi/dandisets/000010/sub-219247/sub-219247_ses-20130923_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:52-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:54-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b9/71/b9718c99d10f480d8337542bd44871e2?versionId=hZZXPYFAOSzvISkRfnhENQ8Vw16PMiV0 to asset
+2020-10-21T13:18:55-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219248/sub-219248_ses-20130919_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:55-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:55-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:55-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c6/04/c60425d3e0e84668bc30f0fde2915599 -> /mnt/backup/dandi/dandisets/000010/sub-219248/sub-219248_ses-20130919_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:55-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:18:59-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c6/04/c60425d3e0e84668bc30f0fde2915599?versionId=oOsaiTW0RNV_P9HVjWefV.U1OI4juv8n to asset
+2020-10-21T13:18:59-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219248/sub-219248_ses-20130920_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:59-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:18:59-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:18:59-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f8/12/f8121afb39de4f60b5b67362b4ca19fc -> /mnt/backup/dandi/dandisets/000010/sub-219248/sub-219248_ses-20130920_behavior+ecephys+ogen.nwb
+2020-10-21T13:18:59-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:02-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f8/12/f8121afb39de4f60b5b67362b4ca19fc?versionId=BimeuKNXXe6SmBwGXpx5RvAMLvEXpMU0 to asset
+2020-10-21T13:19:03-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219248/sub-219248_ses-20130921_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:03-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:03-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:03-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/cb/a9/cba93efbaf6b4e1796b793842d7f7885 -> /mnt/backup/dandi/dandisets/000010/sub-219248/sub-219248_ses-20130921_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:03-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:06-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/cb/a9/cba93efbaf6b4e1796b793842d7f7885?versionId=pf6CFUN.g7UlE18fpcUjRFygOEN3VsMV to asset
+2020-10-21T13:19:07-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219248/sub-219248_ses-20130922_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:07-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:07-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:07-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b2/cd/b2cd31e5352042a78b6a62fbf75ea895 -> /mnt/backup/dandi/dandisets/000010/sub-219248/sub-219248_ses-20130922_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:07-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:10-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b2/cd/b2cd31e5352042a78b6a62fbf75ea895?versionId=1WPBGNO78EjAj1eJ7Fqi76J8IiFxglfY to asset
+2020-10-21T13:19:11-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219248/sub-219248_ses-20130923_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:11-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:11-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:11-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/71/98/7198adc402e84936899dda115aaa4329 -> /mnt/backup/dandi/dandisets/000010/sub-219248/sub-219248_ses-20130923_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:11-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:14-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/71/98/7198adc402e84936899dda115aaa4329?versionId=jChb39LS_LwxHYZHkfRPAyXjk0IvvZLk to asset
+2020-10-21T13:19:15-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219248/sub-219248_ses-20130924_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:15-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:15-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:15-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/e8/e3/e8e36bfe4ca246db9d188c4c1a4332ae -> /mnt/backup/dandi/dandisets/000010/sub-219248/sub-219248_ses-20130924_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:15-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:18-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/e8/e3/e8e36bfe4ca246db9d188c4c1a4332ae?versionId=vvG5n2h5zqmIfZwxomsrhHHg43MngJRM to asset
+2020-10-21T13:19:18-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219248/sub-219248_ses-20130925_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:18-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:18-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:18-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/3e/11/3e116f3e5aeb4ee5ae21fd6d2d8f50ba -> /mnt/backup/dandi/dandisets/000010/sub-219248/sub-219248_ses-20130925_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:19-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:22-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/3e/11/3e116f3e5aeb4ee5ae21fd6d2d8f50ba?versionId=Lu94M.Q4Z5gX0N0KY2a4CXRyZTW0yVH0 to asset
+2020-10-21T13:19:22-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219253/sub-219253_ses-20140117_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:22-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:22-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:22-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/27/20/27201b2e114f40129ef11fca6fa57691 -> /mnt/backup/dandi/dandisets/000010/sub-219253/sub-219253_ses-20140117_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:22-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:25-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/27/20/27201b2e114f40129ef11fca6fa57691?versionId=vAcC7OVCvp3dwgX9AwLq8hvATBxHfK.4 to asset
+2020-10-21T13:19:26-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219253/sub-219253_ses-20140118_obj-1iqyufv_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:26-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:26-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:26-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/74/b9/74b9ebc745e640459b65772cb9b1ba37 -> /mnt/backup/dandi/dandisets/000010/sub-219253/sub-219253_ses-20140118_obj-1iqyufv_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:26-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:27-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/74/b9/74b9ebc745e640459b65772cb9b1ba37?versionId=dfErSOGsTnT2wTY8fY0b6.tHI8m9WMM. to asset
+2020-10-21T13:19:28-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219253/sub-219253_ses-20140118_obj-1m69pde_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:28-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:28-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:28-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a3/0c/a30c1e1547f3446fb75ddfa815756085 -> /mnt/backup/dandi/dandisets/000010/sub-219253/sub-219253_ses-20140118_obj-1m69pde_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:28-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:29-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a3/0c/a30c1e1547f3446fb75ddfa815756085?versionId=5_NfV6ek.Upo4Dk6dQVy_d_ACoXbJLIL to asset
+2020-10-21T13:19:30-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219253/sub-219253_ses-20140119_obj-1frwttg_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:30-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:30-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:30-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/36/c4/36c441a795d9415499b44ad9b4609233 -> /mnt/backup/dandi/dandisets/000010/sub-219253/sub-219253_ses-20140119_obj-1frwttg_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:30-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:32-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/36/c4/36c441a795d9415499b44ad9b4609233?versionId=JWRuRAhCOr4OZQIwTiXsWXgEALfNZ.6S to asset
+2020-10-21T13:19:32-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219253/sub-219253_ses-20140119_obj-1prjaep_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:32-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:32-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:32-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/04/c6/04c6f72587ed460da102eff9555d5fdf -> /mnt/backup/dandi/dandisets/000010/sub-219253/sub-219253_ses-20140119_obj-1prjaep_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:32-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:34-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/04/c6/04c6f72587ed460da102eff9555d5fdf?versionId=OBepZxuM6RzFnEM8jAqg7nShW1tL7nvI to asset
+2020-10-21T13:19:34-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219253/sub-219253_ses-20140120_obj-1y72q3t_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:34-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:34-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:34-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1f/13/1f13ed923384400a95255fefbd891999 -> /mnt/backup/dandi/dandisets/000010/sub-219253/sub-219253_ses-20140120_obj-1y72q3t_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:34-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:36-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1f/13/1f13ed923384400a95255fefbd891999?versionId=4Y_HexaOYBUu5MKE5V_Dp7eF0IK9vxwv to asset
+2020-10-21T13:19:37-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219253/sub-219253_ses-20140120_obj-1ylaxc_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:37-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:37-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:37-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1b/31/1b315919efa24bbb82b97a2477447731 -> /mnt/backup/dandi/dandisets/000010/sub-219253/sub-219253_ses-20140120_obj-1ylaxc_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:37-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:38-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1b/31/1b315919efa24bbb82b97a2477447731?versionId=29V58rqKhnw6Wrsc4j260LffA2fpV.XS to asset
+2020-10-21T13:19:39-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219253/sub-219253_ses-20140121_obj-366qyo_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:39-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:39-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:39-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/7f/d7/7fd70979d92f4a59af60d6ab04a300bb -> /mnt/backup/dandi/dandisets/000010/sub-219253/sub-219253_ses-20140121_obj-366qyo_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:39-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:40-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/7f/d7/7fd70979d92f4a59af60d6ab04a300bb?versionId=AaBiXqQq9tngfepLnG4ustzgLxqjA_I3 to asset
+2020-10-21T13:19:40-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219253/sub-219253_ses-20140121_obj-qmr8ek_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:40-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:40-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:40-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/6b/df/6bdf8e4e1b924c73bc8a3e4eee4da447 -> /mnt/backup/dandi/dandisets/000010/sub-219253/sub-219253_ses-20140121_obj-qmr8ek_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:40-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:42-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/6b/df/6bdf8e4e1b924c73bc8a3e4eee4da447?versionId=8FGusU.32ihhAbP4wOlnhQiesXWXK6k8 to asset
+2020-10-21T13:19:42-0400 [INFO    ] backups2datalad.py Syncing asset /sub-219253/sub-219253_ses-20140122_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:42-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:42-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:42-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/78/51/7851c0d52196445aa6f60a12b97a1cbf -> /mnt/backup/dandi/dandisets/000010/sub-219253/sub-219253_ses-20140122_behavior+ecephys+ogen.nwb
+2020-10-21T13:19:42-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:45-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/78/51/7851c0d52196445aa6f60a12b97a1cbf?versionId=DSrz05uxFbLV3QGBEGDlYYsTZfNVCUrZ to asset
+2020-10-21T13:19:45-0400 [INFO    ] backups2datalad.py Syncing asset /sub-221541/sub-221541_ses-20130822_behavior+ophys.nwb
+2020-10-21T13:19:45-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:45-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:45-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ed/32/ed32c1394b4e4633afb4d76c64589aa5 -> /mnt/backup/dandi/dandisets/000010/sub-221541/sub-221541_ses-20130822_behavior+ophys.nwb
+2020-10-21T13:19:45-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:46-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ed/32/ed32c1394b4e4633afb4d76c64589aa5?versionId=PBr88ShD5W2WE6KLUzUvkdC.CoKvYMA3 to asset
+2020-10-21T13:19:47-0400 [INFO    ] backups2datalad.py Syncing asset /sub-221541/sub-221541_ses-20130823_obj-1bzyh29_behavior+ophys.nwb
+2020-10-21T13:19:47-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:47-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:47-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/05/e2/05e294698c6d451e998e5ecf89bfa577 -> /mnt/backup/dandi/dandisets/000010/sub-221541/sub-221541_ses-20130823_obj-1bzyh29_behavior+ophys.nwb
+2020-10-21T13:19:47-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:48-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/05/e2/05e294698c6d451e998e5ecf89bfa577?versionId=Op08jJhip9M.GO53m4iJchYyR4.ialzA to asset
+2020-10-21T13:19:48-0400 [INFO    ] backups2datalad.py Syncing asset /sub-221541/sub-221541_ses-20130823_obj-1tevsme_behavior+ophys.nwb
+2020-10-21T13:19:48-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:48-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:48-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/7c/2a/7c2a295e9df441a78b8842eec2770bea -> /mnt/backup/dandi/dandisets/000010/sub-221541/sub-221541_ses-20130823_obj-1tevsme_behavior+ophys.nwb
+2020-10-21T13:19:48-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:49-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/7c/2a/7c2a295e9df441a78b8842eec2770bea?versionId=qSpV6urN7GQ_Dm2xBJUQnczQem5VsgV2 to asset
+2020-10-21T13:19:50-0400 [INFO    ] backups2datalad.py Syncing asset /sub-221541/sub-221541_ses-20130823_obj-eob1nd_behavior+ophys.nwb
+2020-10-21T13:19:50-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:50-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:50-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c6/e0/c6e040dfbbe84fdf9a76ac143315d2db -> /mnt/backup/dandi/dandisets/000010/sub-221541/sub-221541_ses-20130823_obj-eob1nd_behavior+ophys.nwb
+2020-10-21T13:19:50-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:51-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c6/e0/c6e040dfbbe84fdf9a76ac143315d2db?versionId=USQAiipTCRZN0oACgKn_xqAcCHLrh32L to asset
+2020-10-21T13:19:51-0400 [INFO    ] backups2datalad.py Syncing asset /sub-221541/sub-221541_ses-20130825_obj-16qqh2q_behavior+ophys.nwb
+2020-10-21T13:19:51-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:51-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:51-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/07/4c/074cd1e12d3142e8ad0848a69efc1b8c -> /mnt/backup/dandi/dandisets/000010/sub-221541/sub-221541_ses-20130825_obj-16qqh2q_behavior+ophys.nwb
+2020-10-21T13:19:51-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:52-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/07/4c/074cd1e12d3142e8ad0848a69efc1b8c?versionId=WZthRph43955LWyc2cGd62uiPuCrtZAr to asset
+2020-10-21T13:19:52-0400 [INFO    ] backups2datalad.py Syncing asset /sub-221541/sub-221541_ses-20130825_obj-4ckpu1_behavior+ophys.nwb
+2020-10-21T13:19:52-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:52-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:52-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/ce/ff/ceffd0e64d3a4d98ab4d532910449441 -> /mnt/backup/dandi/dandisets/000010/sub-221541/sub-221541_ses-20130825_obj-4ckpu1_behavior+ophys.nwb
+2020-10-21T13:19:52-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:53-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/ce/ff/ceffd0e64d3a4d98ab4d532910449441?versionId=PG6Op5v93AE55IglKxsRe8gjBY9PWZLP to asset
+2020-10-21T13:19:54-0400 [INFO    ] backups2datalad.py Syncing asset /sub-221541/sub-221541_ses-20130825_obj-dk0tc7_behavior+ophys.nwb
+2020-10-21T13:19:54-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:54-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:54-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/09/aa/09aa9926fcd84d3b8ca5640a0c32a02a -> /mnt/backup/dandi/dandisets/000010/sub-221541/sub-221541_ses-20130825_obj-dk0tc7_behavior+ophys.nwb
+2020-10-21T13:19:54-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:55-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/09/aa/09aa9926fcd84d3b8ca5640a0c32a02a?versionId=9X9wZggBqZlritIeAbY6BMIIl6LRoS6U to asset
+2020-10-21T13:19:55-0400 [INFO    ] backups2datalad.py Syncing asset /sub-221541/sub-221541_ses-20130825_obj-gs4n4w_behavior+ophys.nwb
+2020-10-21T13:19:55-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:55-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:55-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/93/d6/93d6ce6cb88c46318b114eb7b1a72303 -> /mnt/backup/dandi/dandisets/000010/sub-221541/sub-221541_ses-20130825_obj-gs4n4w_behavior+ophys.nwb
+2020-10-21T13:19:55-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:56-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/93/d6/93d6ce6cb88c46318b114eb7b1a72303?versionId=bl0ldw0NC3xESlGyNVvqAnveP5kBbYPt to asset
+2020-10-21T13:19:56-0400 [INFO    ] backups2datalad.py Syncing asset /sub-221541/sub-221541_ses-20130825_obj-v2s7lf_behavior+ophys.nwb
+2020-10-21T13:19:56-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:57-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:57-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/fd/46/fd464f0b69f44f6bb38ef66fa737414d -> /mnt/backup/dandi/dandisets/000010/sub-221541/sub-221541_ses-20130825_obj-v2s7lf_behavior+ophys.nwb
+2020-10-21T13:19:57-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:58-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/fd/46/fd464f0b69f44f6bb38ef66fa737414d?versionId=U5zWPY7ew5Demp08p4ztiWEaGgFEaOXH to asset
+2020-10-21T13:19:58-0400 [INFO    ] backups2datalad.py Syncing asset /sub-221541/sub-221541_ses-20130826_obj-13bjan2_behavior+ophys.nwb
+2020-10-21T13:19:58-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:19:58-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:19:58-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/7a/01/7a01057ddbea442e80ce9f3b4d772d51 -> /mnt/backup/dandi/dandisets/000010/sub-221541/sub-221541_ses-20130826_obj-13bjan2_behavior+ophys.nwb
+2020-10-21T13:19:58-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:19:59-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/7a/01/7a01057ddbea442e80ce9f3b4d772d51?versionId=66S84xT7ZwZI8RYw4c0oCubwy4i0rUTL to asset
+2020-10-21T13:19:59-0400 [INFO    ] backups2datalad.py Syncing asset /sub-221541/sub-221541_ses-20130826_obj-19g87yj_behavior+ophys.nwb
+2020-10-21T13:19:59-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:00-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:00-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/d7/d3/d7d30aea70a446a5a1de3679b0644644 -> /mnt/backup/dandi/dandisets/000010/sub-221541/sub-221541_ses-20130826_obj-19g87yj_behavior+ophys.nwb
+2020-10-21T13:20:00-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:00-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/d7/d3/d7d30aea70a446a5a1de3679b0644644?versionId=hAJ1mSMqsGlUMr6.cDrjOuP.lhQGdV6b to asset
+2020-10-21T13:20:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-221541/sub-221541_ses-20130826_obj-1s2on8k_behavior+ophys.nwb
+2020-10-21T13:20:01-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:01-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:01-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/92/cc/92cc659cb30e4980bf5ce9edfc5e3fb1 -> /mnt/backup/dandi/dandisets/000010/sub-221541/sub-221541_ses-20130826_obj-1s2on8k_behavior+ophys.nwb
+2020-10-21T13:20:01-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:04-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/92/cc/92cc659cb30e4980bf5ce9edfc5e3fb1?versionId=RyoSYt1yl8Mqhx_X1dKaSFYnlltDOXL1 to asset
+2020-10-21T13:20:04-0400 [INFO    ] backups2datalad.py Syncing asset /sub-221541/sub-221541_ses-20130826_obj-edk6fl_behavior+ophys.nwb
+2020-10-21T13:20:04-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:04-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:04-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/0f/3a/0f3aa6ba910b422aabc6e4f8e6fd781a -> /mnt/backup/dandi/dandisets/000010/sub-221541/sub-221541_ses-20130826_obj-edk6fl_behavior+ophys.nwb
+2020-10-21T13:20:04-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:05-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/0f/3a/0f3aa6ba910b422aabc6e4f8e6fd781a?versionId=IF5gtJe12sDvIxphGeSEggDyBAID0NOX to asset
+2020-10-21T13:20:05-0400 [INFO    ] backups2datalad.py Syncing asset /sub-221977/sub-221977_ses-20140115_behavior+ecephys+ogen.nwb
+2020-10-21T13:20:05-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:06-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:06-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/6e/ad/6ead0d0e9a6d49f1866f5f0a52d5ae22 -> /mnt/backup/dandi/dandisets/000010/sub-221977/sub-221977_ses-20140115_behavior+ecephys+ogen.nwb
+2020-10-21T13:20:06-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:09-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/6e/ad/6ead0d0e9a6d49f1866f5f0a52d5ae22?versionId=ssWee6sTo_LUNEyAiwBq9.XbOpkM2xUn to asset
+2020-10-21T13:20:09-0400 [INFO    ] backups2datalad.py Syncing asset /sub-221977/sub-221977_ses-20140116_behavior+ecephys+ogen.nwb
+2020-10-21T13:20:09-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:10-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:10-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/77/54/77547acbcc7343f385e64419050748c4 -> /mnt/backup/dandi/dandisets/000010/sub-221977/sub-221977_ses-20140116_behavior+ecephys+ogen.nwb
+2020-10-21T13:20:10-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:14-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/77/54/77547acbcc7343f385e64419050748c4?versionId=7Ld6R2Wp.ZrqxSltsyf_v.s067hSxYWc to asset
+2020-10-21T13:20:14-0400 [INFO    ] backups2datalad.py Syncing asset /sub-221977/sub-221977_ses-20140118_behavior+ecephys+ogen.nwb
+2020-10-21T13:20:14-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:14-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:14-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/2f/2b/2f2b71c59ccc4e2aaaebd689e3ff6c3c -> /mnt/backup/dandi/dandisets/000010/sub-221977/sub-221977_ses-20140118_behavior+ecephys+ogen.nwb
+2020-10-21T13:20:14-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:17-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/2f/2b/2f2b71c59ccc4e2aaaebd689e3ff6c3c?versionId=sd6k1KS00Z5bUTeInrMFsTInF4zzChda to asset
+2020-10-21T13:20:17-0400 [INFO    ] backups2datalad.py Syncing asset /sub-226244/sub-226244_ses-20131108_obj-1hlx2tn_behavior+ophys.nwb
+2020-10-21T13:20:17-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:17-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:17-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/b3/2f/b32f864f83e14bf6a692e0841268eef3 -> /mnt/backup/dandi/dandisets/000010/sub-226244/sub-226244_ses-20131108_obj-1hlx2tn_behavior+ophys.nwb
+2020-10-21T13:20:17-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:18-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/b3/2f/b32f864f83e14bf6a692e0841268eef3?versionId=usfqI_ACYb8Zk8oi9UuMugY9yZeZawa7 to asset
+2020-10-21T13:20:19-0400 [INFO    ] backups2datalad.py Syncing asset /sub-226244/sub-226244_ses-20131108_obj-1pd56g1_behavior+ophys.nwb
+2020-10-21T13:20:19-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:19-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:19-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/53/18/5318d6d5e48148879658c6c2ab6c8e88 -> /mnt/backup/dandi/dandisets/000010/sub-226244/sub-226244_ses-20131108_obj-1pd56g1_behavior+ophys.nwb
+2020-10-21T13:20:19-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:20-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/53/18/5318d6d5e48148879658c6c2ab6c8e88?versionId=Pt95Rz_6awdYovkiWvR7pmO7RuaRmqeP to asset
+2020-10-21T13:20:20-0400 [INFO    ] backups2datalad.py Syncing asset /sub-226244/sub-226244_ses-20131108_obj-1u5givg_behavior+ophys.nwb
+2020-10-21T13:20:20-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:21-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:21-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/4e/a3/4ea3bc3f50a244c0b5763e2722b7270c -> /mnt/backup/dandi/dandisets/000010/sub-226244/sub-226244_ses-20131108_obj-1u5givg_behavior+ophys.nwb
+2020-10-21T13:20:21-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:21-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/4e/a3/4ea3bc3f50a244c0b5763e2722b7270c?versionId=2a.HQoFti.g1JY6zgBXRphkDpIyQjOyz to asset
+2020-10-21T13:20:22-0400 [INFO    ] backups2datalad.py Syncing asset /sub-226244/sub-226244_ses-20131110_obj-162hhqy_behavior+ophys.nwb
+2020-10-21T13:20:22-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:22-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:22-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/aa/ca/aacadac86bf44cf0a82a146e45d8f960 -> /mnt/backup/dandi/dandisets/000010/sub-226244/sub-226244_ses-20131110_obj-162hhqy_behavior+ophys.nwb
+2020-10-21T13:20:22-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:22-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/aa/ca/aacadac86bf44cf0a82a146e45d8f960?versionId=74Q2E4R6Toww8G6EIhoKW4fRz7wxdgxl to asset
+2020-10-21T13:20:23-0400 [INFO    ] backups2datalad.py Syncing asset /sub-226244/sub-226244_ses-20131110_obj-1yovdsd_behavior+ophys.nwb
+2020-10-21T13:20:23-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:23-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:23-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/17/39/1739983ebdd946ae9a1baf9da8bac3d1 -> /mnt/backup/dandi/dandisets/000010/sub-226244/sub-226244_ses-20131110_obj-1yovdsd_behavior+ophys.nwb
+2020-10-21T13:20:23-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:23-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/17/39/1739983ebdd946ae9a1baf9da8bac3d1?versionId=9X1CEFz4sYtM0l5e0VIfadVUDvt1koac to asset
+2020-10-21T13:20:24-0400 [INFO    ] backups2datalad.py Syncing asset /sub-226244/sub-226244_ses-20131110_obj-7vj2vq_behavior+ophys.nwb
+2020-10-21T13:20:24-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:24-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:24-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a9/a5/a9a5a9e3a9494218899d364dba31d7fe -> /mnt/backup/dandi/dandisets/000010/sub-226244/sub-226244_ses-20131110_obj-7vj2vq_behavior+ophys.nwb
+2020-10-21T13:20:24-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:25-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a9/a5/a9a5a9e3a9494218899d364dba31d7fe?versionId=bR9q2fmUrcFwDi9viTE5T0wzho3MgM0Y to asset
+2020-10-21T13:20:25-0400 [INFO    ] backups2datalad.py Syncing asset /sub-226244/sub-226244_ses-20131110_obj-dvr1ji_behavior+ophys.nwb
+2020-10-21T13:20:25-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:25-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:25-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/7f/ff/7fff0d4e75b44ba8a43541e5932b8c9e -> /mnt/backup/dandi/dandisets/000010/sub-226244/sub-226244_ses-20131110_obj-dvr1ji_behavior+ophys.nwb
+2020-10-21T13:20:25-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:26-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/7f/ff/7fff0d4e75b44ba8a43541e5932b8c9e?versionId=mAr9WrrCIxMk4SOqmvRe.ExCmbvly0.5 to asset
+2020-10-21T13:20:26-0400 [INFO    ] backups2datalad.py Syncing asset /sub-226244/sub-226244_ses-20131110_obj-uj92z4_behavior+ophys.nwb
+2020-10-21T13:20:26-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:26-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:26-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/76/05/7605e2064cf946a9a8d922f36108d440 -> /mnt/backup/dandi/dandisets/000010/sub-226244/sub-226244_ses-20131110_obj-uj92z4_behavior+ophys.nwb
+2020-10-21T13:20:27-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:28-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/76/05/7605e2064cf946a9a8d922f36108d440?versionId=NCgUZuSDp3qmGYixlt2eZdvVAO0bhs9n to asset
+2020-10-21T13:20:28-0400 [INFO    ] backups2datalad.py Syncing asset /sub-226244/sub-226244_ses-20131112_obj-1ic18cz_behavior+ophys.nwb
+2020-10-21T13:20:28-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:29-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:29-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/f8/e9/f8e93ea14133491dad408a328de8b46e -> /mnt/backup/dandi/dandisets/000010/sub-226244/sub-226244_ses-20131112_obj-1ic18cz_behavior+ophys.nwb
+2020-10-21T13:20:29-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:29-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/f8/e9/f8e93ea14133491dad408a328de8b46e?versionId=ystjkkc4yXLh.X3Mx8OFxVfQr_20B1wt to asset
+2020-10-21T13:20:29-0400 [INFO    ] backups2datalad.py Syncing asset /sub-226244/sub-226244_ses-20131112_obj-1mraicu_behavior+ophys.nwb
+2020-10-21T13:20:29-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:30-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:30-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/46/65/4665a007c8eb4487a95328d90cff00f4 -> /mnt/backup/dandi/dandisets/000010/sub-226244/sub-226244_ses-20131112_obj-1mraicu_behavior+ophys.nwb
+2020-10-21T13:20:30-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:31-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/46/65/4665a007c8eb4487a95328d90cff00f4?versionId=BXxvcsqCitxORoWJk0lTrxPdb5mq9Z_C to asset
+2020-10-21T13:20:31-0400 [INFO    ] backups2datalad.py Syncing asset /sub-226244/sub-226244_ses-20131112_obj-rluajx_behavior+ophys.nwb
+2020-10-21T13:20:31-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:31-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:31-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/1f/6e/1f6eb9b2095047b6945a97b35a4fe693 -> /mnt/backup/dandi/dandisets/000010/sub-226244/sub-226244_ses-20131112_obj-rluajx_behavior+ophys.nwb
+2020-10-21T13:20:31-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:32-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/1f/6e/1f6eb9b2095047b6945a97b35a4fe693?versionId=kTcJznMAr2KRHXy0ab0RL5isKNpOxNa7 to asset
+2020-10-21T13:20:32-0400 [INFO    ] backups2datalad.py Syncing asset /sub-226244/sub-226244_ses-20131112_obj-ypcznw_behavior+ophys.nwb
+2020-10-21T13:20:32-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:33-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:33-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/c6/f0/c6f043b98621492187f4f8fe2cc2a3c8 -> /mnt/backup/dandi/dandisets/000010/sub-226244/sub-226244_ses-20131112_obj-ypcznw_behavior+ophys.nwb
+2020-10-21T13:20:33-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:33-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/c6/f0/c6f043b98621492187f4f8fe2cc2a3c8?versionId=dm6FJ72CCMms4S2ykHaI20nYhNEZVzyF to asset
+2020-10-21T13:20:34-0400 [INFO    ] backups2datalad.py Syncing asset /sub-226244/sub-226244_ses-20131114_obj-1bk2zc4_behavior+ophys.nwb
+2020-10-21T13:20:34-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:34-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:34-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/88/ea/88ea7c04bdc547d38fccae84503d4489 -> /mnt/backup/dandi/dandisets/000010/sub-226244/sub-226244_ses-20131114_obj-1bk2zc4_behavior+ophys.nwb
+2020-10-21T13:20:34-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:36-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/88/ea/88ea7c04bdc547d38fccae84503d4489?versionId=dOisnRtB7.vQgy0Claa_FAvf1RoPUPTa to asset
+2020-10-21T13:20:37-0400 [INFO    ] backups2datalad.py Syncing asset /sub-226244/sub-226244_ses-20131114_obj-qclugt_behavior+ophys.nwb
+2020-10-21T13:20:37-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-21T13:20:37-0400 [INFO    ] backups2datalad.py Asset not in dataset; will copy
+2020-10-21T13:20:37-0400 [INFO    ] backups2datalad.py cp /mnt/backup/dandi/dandiarchive-s3-backup/girder-assetstore/a1/05/a1052e1d66e8444dbeed2ca99747692c -> /mnt/backup/dandi/dandisets/000010/sub-226244/sub-226244_ses-20131114_obj-qclugt_behavior+ophys.nwb
+2020-10-21T13:20:37-0400 [INFO    ] backups2datalad.py Adding asset to dataset
+2020-10-21T13:20:38-0400 [INFO    ] backups2datalad.py Adding URL https://dandiarchive.s3.amazonaws.com/girder-assetstore/a1/05/a1052e1d66e8444dbeed2ca99747692c?versionId=SoOBMmjslKXScQN6qq1DmEvwrh7U7h5k to asset
+2020-10-21T13:20:38-0400 [INFO    ] backups2datalad.py Commiting changes

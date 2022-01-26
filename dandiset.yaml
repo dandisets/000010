@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000010
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.0/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -76,23 +77,26 @@ contributor:
 dateCreated: '2020-03-19T15:44:00.241000+00:00'
 description: Data from "A motor cortex circuit for motor planning and movement" Li
   et al. Nature 2015
+ethicsApproval: []
 id: DANDI:000010/draft
 identifier: DANDI:000010
+keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000010/versions/draft/assets/
 name: A motor cortex circuit for motor planning and movement
+protocol: []
 relatedResource:
 - identifier: doi:10.1038/nature14178
+  name: A motor cortex circuit for motor planning and movement
   relation: dcite:IsDescribedBy
   schemaKey: Resource
   url: https://www.nature.com/articles/nature14178
-- relation: dcite:IsDescribedBy
-  schemaKey: Resource
-  url: https://doi.org/10.1038/nature14178
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.0
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000010/draft
 version: draft
+wasGeneratedBy: []

@@ -40,7 +40,7 @@ assetsSummary:
   - BehavioralEvents
   - PlaneSegmentation
 citation: Li, Nuo; Chen, Tsai-Wen; Guo, Zengcai V.; Gerfen, Charles R.; Svoboda, Karel
-  (2022) A motor cortex circuit for motor planning and movement (Version draft) [Data
+  (2024) A motor cortex circuit for motor planning and movement (Version draft) [Data
   set]. DANDI archive. https://dandiarchive.org/dandiset/000010/draft
 contributor:
 - identifier: 0000-0002-6613-5018
@@ -91,9 +91,11 @@ relatedResource:
 - identifier: doi:10.1038/nature14178
   name: A motor cortex circuit for motor planning and movement
   relation: dcite:IsDescribedBy
+  repository: Nature
+  resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://www.nature.com/articles/nature14178
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []

@@ -54,6 +54,7 @@ contributor:
   - identifier: https://ror.org/006w34k90
     name: Howard Hughes Medical Institute
     schemaKey: Affiliation
+  email: linuo@janelia.hhmi.org
   identifier: 0000-0002-6613-5018
   includeInCitation: true
   name: Li, Nuo
@@ -68,7 +69,7 @@ contributor:
   - identifier: https://ror.org/006w34k90
     name: Howard Hughes Medical Institute
     schemaKey: Affiliation
-  identifier: 0000-0002-3407-8223
+  identifier: 0000-0001-6782-3819
   includeInCitation: true
   name: Chen, Tsai-Wen
   roleName:
